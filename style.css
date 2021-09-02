@@ -1,0 +1,62 @@
+head{
+    background-color: skyblue;
+    border: solid;
+    border-width: 10px;
+    border-color: brown;
+    text-align: center;
+}
+body{
+    background-color: darkorchid;
+    text-align: center;
+     border: solid;
+    border-width: 10px;
+    border-color: red;
+}
+img {
+ border: solid;
+    border-width: 10px;
+    border-color: brown;
+}
+h1{
+    color:lightgray;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+h1{
+    color:lightgray;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+h2{
+    color:lightgray;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+h3{
+    color:lightgray;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+h4{
+    color:lightgray;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+h5{
+    color:lightgray;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+marquee{
+    
+    color:darkblue;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+video{
+    border:solid;
+    border-color:gold;
+    border-width:5px;
+    
+}
+}
